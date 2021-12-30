@@ -38,7 +38,7 @@ The test fails with an error that looks very similar to this rejection: https://
 
 ### Additional context
 
-I'd like to run test without transformations with ESM modules. That's the reason i use `jest-environment-jsdom-sixteen` as `testEnvironment` in the config.
+I'd like to run test without transformations with ES Modules. That's the reason i use `jest-environment-jsdom-sixteen` as `testEnvironment` in the config.
 
 ### Environment
 
