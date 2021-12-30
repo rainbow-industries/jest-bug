@@ -1,0 +1,13 @@
+{
+  "type": "module",
+  "name": "jest-bug",
+  "version": "1.0.0",
+  "description": "jest bug",
+  "scripts": {
+    "test": "jest --config=jest.config.js"
+  },
+  "devDependencies": {
+    "jest": "^27.4.5",
+    "jest-environment-jsdom-sixteen": "^2.0.0"
+  }
+}
